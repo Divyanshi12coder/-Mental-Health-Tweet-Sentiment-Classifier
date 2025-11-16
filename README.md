@@ -87,4 +87,3 @@ mental-health-sentiment/
 
 ---
 
-Would you like a matching logo, badges, or deployment instructions for Hugging Face or Heroku? I can also help you add model interpretability or real-time sentiment alerts.
