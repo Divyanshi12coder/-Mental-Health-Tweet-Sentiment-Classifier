@@ -1,0 +1,16 @@
+[1] Data Collection
+    └── Scrape tweets with keywords (e.g., "anxiety", "mental health")
+
+[2] Text Preprocessing
+    └── Remove URLs, mentions, emojis
+    └── Tokenize, lemmatize, remove stopwords
+
+[3] Sentiment Classification
+    └── Use VADER/TextBlob to assign sentiment
+
+[4] Visualization
+    └── Plot sentiment distribution
+    └── Generate word clouds
+
+[5] Deployment
+    └── Streamlit app for real-time predictions
