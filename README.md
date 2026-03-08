@@ -108,4 +108,6 @@ mental-health-sentiment/
 
 - Suicidal Tweet Detection Dataset: https://www.kaggle.com/datasets/aunanya875/suicidal-tweet-detection-dataset
 
+##Deployment
 
+- http://localhost:3000
